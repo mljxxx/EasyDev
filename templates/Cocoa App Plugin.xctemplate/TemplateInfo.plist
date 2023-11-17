@@ -12,7 +12,7 @@
 		<string>com.apple.dt.unit.osxBase</string>
 	</array>
 	<key>Concrete</key>
-	<true/>
+	<false/>
 	<key>Description</key>
 	<string>This template provides a starting point for an application that uses a single view. It provides a view controller to manage the view, and a storyboard or nib file that contains the view.</string>
 	<key>SortOrder</key>

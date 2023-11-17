@@ -7,7 +7,7 @@
 	<key>Identifier</key>
 	<string>net.ymlab.easyDev.cocoaLogosTweak</string>
 	<key>Concrete</key>
-	<true/>
+	<false/>
 	<key>Description</key>
 	<string>This template builds a Cocoa Logos-based Substrate Tweak.</string>
 	<key>Ancestors</key>

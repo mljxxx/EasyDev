@@ -164,6 +164,6 @@
 		<string>Depends: firmware (&gt;= 7.0), mobilesubstrate, preferenceloader</string>
 	</dict>
 	<key>Concrete</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

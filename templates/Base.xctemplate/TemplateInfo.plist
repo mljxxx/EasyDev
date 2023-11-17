@@ -83,7 +83,7 @@
 			<key>EasyDevPath</key>
 			<string>/opt/EasyDev</string>
 			<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-			<string>8.0</string>
+			<string>11.0</string>
 			<key>FRAMEWORK_SEARCH_PATHS</key>
 			<string>$(inherited) $(EasyDevPath)/lib $(EasyDevTheosPath)/lib $(EasyDevTheosPath)/vendor/lib</string>
 		</dict>

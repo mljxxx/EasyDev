@@ -12,8 +12,6 @@
 * 支持开发第三方应用插件并与第三方应用联调
 * 集成一些常用的工具（可在终端中使用，不会集成到项目中）
 
-![](ScreenShots/QQ20221213-213954@2x.png)
-
 免责声明: 软件仅供技术交流，禁止用于商业及非法用途，如产生法律纠纷与本人无关。
 
 ## 环境配置
@@ -42,7 +40,7 @@ source ~/.bash_profile
 ### 配置 EasyDev
 
 ```
-sudo git clone --recursive https://github.com/lemon4ex/EasyDev.git /opt/EasyDev
+sudo git clone git@github.com:mljxxx/EasyDev.git /opt/EasyDev
 ```
 
 ### 配置 ldid

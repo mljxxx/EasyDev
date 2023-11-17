@@ -1,1 +1,0 @@
-../tools/frida-ios-dump/dump.py

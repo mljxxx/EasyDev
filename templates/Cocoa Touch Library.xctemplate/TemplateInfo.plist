@@ -7,7 +7,7 @@
 	<key>Identifier</key>
 	<string>net.ymlab.easyDev.cocoaTouchLibrary</string>
 	<key>Concrete</key>
-	<true/>
+	<false/>
 	<key>Description</key>
 	<string>This template builds a dynamic or static library that links against the Foundation and UIKit frameworks.</string>
 	<key>Ancestors</key>

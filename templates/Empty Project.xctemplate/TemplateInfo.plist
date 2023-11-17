@@ -7,7 +7,7 @@
 	<key>Identifier</key>
 	<string>com.kokoabim.iosopendev.emptyProject</string>
 	<key>Concrete</key>
-	<true/>
+	<false/>
 	<key>Description</key>
 	<string>This is an empty project with no files, targets, or build configurations.</string>
 	<key>ProjectOnly</key>
